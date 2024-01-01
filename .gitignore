@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file
+*.ini
+
+# Environment-related files
+.env
+venv/
+env/
+env_bak/
+env_backup/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# pycache directory
+__pycache__/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+*.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Sphinx documentation
+docs/_build/
+
+.venv
